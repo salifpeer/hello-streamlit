@@ -1,6 +1,7 @@
 
 import streamlit as st
 import requests
+from frontend.login import LOGO_PATH
 from location import location_page
 
 def dashboard():
@@ -325,10 +326,8 @@ def dashboard():
                 "My Dashboard"
             )
 
-            st.image(
-            "logo.png",
-                width=100,
-                
+            st.write(
+            "hello"
                 
             )
 

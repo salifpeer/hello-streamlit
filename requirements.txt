@@ -1,0 +1,12 @@
+streamlit==1.64.0
+requests==2.34.2
+streamlit-geolocation==0.0.10
+folium
+streamlit-folium
+
+fastapi==0.142.1
+uvicorn==0.54.0
+pydantic==2.13.5
+email-validator==2.3.0
+python-jose==3.5.0
+python-multipart==0.0.32
